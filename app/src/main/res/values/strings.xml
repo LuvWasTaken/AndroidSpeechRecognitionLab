@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidSpeechRecognitionLab</string>
+    <string name="help">Press the Record Speech button to translate speech to text. Press the Read Text Aloud button to read text with Text-To-Speech(TTS).</string>
+    <string name="button_record">Record Speech</string>
+    <string name="recorded_text">Recorded text will display here</string>
+    <string name="button_read">Read Text Aloud</string>
+    <string name="try_help">Try speech button on Android Keyboard</string>
+</resources>
